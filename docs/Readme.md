@@ -82,14 +82,18 @@ The summary will outline the current state of government’s 1600+ application p
 *	What is the average amount of time since the last minor and major releases of the custom-built applications? 
 *	What are the underlying technologies and is support available?
 *	Are there specific types or classes of applications? 
+* Source code vulnerabilities within existing applications
+* Measured "migration difficulty" for code and database replatforming to cloud-native technologies
+* What is the business value delivered for each application?
 
 **C: Playbook for Modern Application Architecture**<br>
 The playbook will provide guidance on adoption strategies, efficiencies, and implementation.
 *	Adoption strategies – 6Rs (rehost, replatform, repurchase, refactor, retire, and retain)
+  * Standardized, objective, and automated calculation of transition strategies for applications, based on strategy, goals and application portfolio assessment
 *	Lessons learned and key success factors
 *	Analysis of 6Rs against common application archetypes
 *	Resources (e.g. standards, other supports in government)
-*	Cost analysis guidance
+*	Cost analysis guidance - align future spend to business value delivered
 
 **D: Future State Blueprint**<br>
 The blueprint will propose a reference architecture and measurable use cases delivering high business impact. Connected is the Common Components Program Framework. This will need community participation and executive governance. 
@@ -111,6 +115,13 @@ Will review policy instruments and principles influencing the Framework and co-c
 * Various technical and security standards administered by the OCIO (over 40+ standards) 
 *	[Digital Principles](https://github.com/bcgov/digital-principles)<br>
 *	[Ten Principles of Privacy Protection](https://www2.gov.bc.ca/gov/content/employment-business/business/managing-a-business/protect-personal-information/principles)<br>
+
+**F: Execution Structure**<br>
+Leveraging BC's established agile and DevOps practices, this framework should:
+* Use Agile execution teams to execute on migration strategies that are tailored to each application group 
+* Scale out execution teams from one initial team, to multiple parallel workstreams
+* Craft sprint plans and estimates based on function point analysis from *B's Portfolio assessment*
+* Deliver incremental value to the province through a phased modernization approach
 
 We want to hear from you.<br>
 > What are your thoughts on these deliverables?<br>
